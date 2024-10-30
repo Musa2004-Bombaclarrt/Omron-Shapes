@@ -1,0 +1,35 @@
+○ Specifikationer
+  -Inspektionsværktøjer
+    :Mønstergenekendelse
+    :FarveDetektion
+    :Optisk tegngenkendelse 
+    :Kodeaflæsning -- QR-Koder
+  -60FPS
+  -Indbygget lys
+  -24V DC
+  -Beskyttelsesklasse IP65/IP67 --  6=støvtæt _ 5=Vandstråle tæt _ 7=Beskttelse mod nedsænkning i vand
+  - Kompakt design samt letvægt -- fleksibel
+  
+○ Fordele og ulemper
+  -Fordele
+    :Brugervenlig grænseflade -- Nem tilpasning
+    :Integreret billedbehandling -- Vælg premade billedbehandlinger
+    :Velegnet til krævende miljøer 
+    
+  -Ulemper
+    :Begrænset til industrielle miljøer
+    :faste opløsninger og indbyggede objektiver -- begrænset mulighed
+    :Høj pris
+    
+  
+○ Tilslutningsmuligheder
+  -Ethernet/IP og TCP/IP
+  -EtherCAT
+    :Real-time Performance _ hurtige opdateringshastigheder, go' til kontrol
+  -Digital I/O
+    :Anvendes til f.eks. Trigger
+  -RS-232
+  
+  
+
+
